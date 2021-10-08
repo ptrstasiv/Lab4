@@ -1,0 +1,2 @@
+D:\Uni\Lab4\Cpp\Debug\Cpp.exe
+D:\Uni\Lab4\Cpp\Debug\Cpp.pdb
